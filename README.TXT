@@ -8,3 +8,6 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 3.
+
+41. I see no results while using the addNote method several times.
+42. 
