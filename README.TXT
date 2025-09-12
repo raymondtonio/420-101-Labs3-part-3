@@ -11,3 +11,5 @@ It is discussed in chapter 3.
 
 41. I see no results while using the addNote method several times.
 42. 
+43. Yes.
+44. 
