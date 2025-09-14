@@ -29,7 +29,7 @@ public class TuneCreator
     {
         // Step 1: Create a SimpleTune object.
         SimpleTune tune = new SimpleTune();
-        tune.setInstrument(25); // choose an instrument
+        tune.setInstrument(5); // choose an instrument
         tune.addNote("C",6);  // add notes
         tune.addNote("B",8);
         tune.addNote("D",10);
